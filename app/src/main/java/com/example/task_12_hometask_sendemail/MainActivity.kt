@@ -31,4 +31,7 @@ class MainActivity: Activity() {
             //}
         }
     }
+    companion object {
+        const val SEC_ACTIVITY = "newMessage"
+    }
 }
